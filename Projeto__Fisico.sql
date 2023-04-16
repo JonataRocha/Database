@@ -1,4 +1,4 @@
-/* projeto_Fisico(final): */
+/* projeto_Fisico.sql: */
 
 CREATE TABLE Cliente (
     idCliente INTEGER PRIMARY KEY AUTO_INCREMENT,
